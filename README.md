@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Vasandhan P K G – Full Stack Developer & AI Enthusiast"/>
+<img src="./assets/banner.png" width="100%" alt="Vasandhan P K G – Full Stack Developer & AI Enthusiast"/>
 
 </div>
 
@@ -15,20 +15,35 @@
 
 ---
 
+
+
+
 ## 🧑‍💻 About Me
 
+<table>
+  <tr>
+    <td width="500" align="center" valign="top">
+      <img src="./assets/photo.jpeg" width="230" style="border-radius:50%;" alt="Vasandhan PKG"/>
+      <br/><br/>
+      <a href="https://linkedin.com/in/vasandhan-p-k-g"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+      <br/>
+      <a href="mailto:vasandhanpkg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+    </td>
+    <td valign="top">
+
 ```yaml
-name       : Vasandhan P K G
-degree     : B.E Electronics & Communication Engineering (2024–2028)
-college    : Saveetha Engineering College
-focus      : Full Stack Dev · AI/ML · IoT & Embedded Systems
-certified  : Oracle Certified Java Programmer
-problems   : 500+ Solved
+Name       : Vasandhan P K G
+Degree     : B.E Electronics & Communication Engineering (2024–2028)
+College    : Saveetha Engineering College
+Focus      : Full Stack Dev · AI/ML · IoT & Embedded Systems
+Certified  : Oracle Certified Java Programmer
+Leetcode   : 400+ Solved
 learning   : Spring Boot · Embedded Linux · System Design · Competitive Programming
 ```
 
----
-
+  </td>
+  </tr>
+</table>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -145,16 +160,6 @@ learning   : Spring Boot · Embedded Linux · System Design · Competitive Progr
 </div>
 
 ---
-
-## 📸 About Me
-
-<div align="center">
-
-> _Upload your photo as `./assets/profile.jpg` to display it here_
-
-<!-- Uncomment after uploading your photo:
-<img src="./assets/profile.jpg" width="160" style="border-radius:50%;" alt="Vasandhan PKG"/>
--->
 
 </div>
 
